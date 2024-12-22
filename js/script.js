@@ -484,7 +484,7 @@
 
 	var ua = navigator.userAgent,
 		  isMobileWebkit = /WebKit/.test(ua) && /Mobile/.test(ua);
-		  if( ! isMobileWebkit && jQuery(window).width() >= 768 ){
+		  if( ! isMobileWebkit && jQuery(window).width() >= 480 ){
 			$.stellar({
 				horizontalScrolling	: false,
 				responsive			: true
