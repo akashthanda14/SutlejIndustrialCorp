@@ -67,7 +67,7 @@ body, html {
   }
 
   .hero-text p {
-    font-size: 1.5rem; /* Adjust paragraph size for tablets */
+    font-size: 2rem; /* Adjust paragraph size for tablets */
   }
   .mob-w50{
     width: 50%;
@@ -80,7 +80,7 @@ body, html {
   }
 
   .hero-text p {
-    font-size: 1rem; /* Smaller paragraph text for mobile */
+    font-size: 2rem; /* Smaller paragraph text for mobile */
   }
   .mob-w50{
     width: 50%;
