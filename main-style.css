@@ -271,6 +271,20 @@ big, .big {
 .bg-light-gray {
 	background: #d3d3d3;
 }
+.hero-image .hero-button{
+	padding: 15px 50px;
+    background-color: #FBCA00;
+    color: white;
+    font-size: 15px;
+    border-radius: 3px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.hero-image .hero-button:hover{
+	transition: 0.45s;
+	color: black;
+	background-color: white;
+}
 .bg-transparent {
 	background: transparent;
 }
